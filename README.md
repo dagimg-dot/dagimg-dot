@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **BDU SIMS Bot**
 
-- 🌱 I’m currently learning **Javascript, nodejs, C++**
+- 🌱 I’m currently learning **Javascript, nodejs**
 
-- 💬 Ask me about **math, python, java**
+- 💬 Ask me about **math, python, java, C++**
 
 - 📫 How to reach me **workflow.jd@gmail.com**
 
