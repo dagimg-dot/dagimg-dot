@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **BDU SIMS Bot**
 
-- 🌱 I’m currently learning **Javascript, nodejs**
+- 🌱 I’m currently learning **Javascript, nodejs, flutter**
 
 - 💬 Ask me about **math, python, java, C++**
 
