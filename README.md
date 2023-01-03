@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagimg-dot&label=Profile%20views&color=0e75b6&style=flat" alt="dagimg-dot" /> </p>
 
-- 🔭 I’m currently working on **BDU SIMS Bot**
+- 🔭 I’m currently working on **a mobile app called Sleepy**
 
 - 🌱 I’m currently learning **Javascript, nodejs, flutter**
 
