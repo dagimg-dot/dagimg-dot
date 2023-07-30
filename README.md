@@ -104,5 +104,5 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dagimg-dot&theme=dark" alt="Github Something" align="left">
-<img src="https://streak-stats.demolab.com/?user=dagimg-dot&theme=dark" alt="GitHub Streak" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=dagimg-dot&theme=dark" alt="Github Something" align="left" width="400px">
+<img src="https://streak-stats.demolab.com/?user=dagimg-dot&theme=dark" alt="GitHub Streak" align="right" width="400px">
