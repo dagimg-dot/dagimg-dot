@@ -104,5 +104,5 @@
   </a>
 </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagimg-dot&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=dagimg-dot&theme=dark" alt="Github Something" align="left">
+<img src="https://streak-stats.demolab.com/?user=dagimg-dot&theme=dark" alt="GitHub Streak" align="right">
