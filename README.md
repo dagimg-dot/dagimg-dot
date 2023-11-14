@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagimg-dot&label=Profile%20views&color=0e75b6&style=flat" alt="dagimg-dot" /> </p>
 
-- 🔭 I’m currently working on **a mobile app called Sleepy**
+- 🔭 I’m currently working on **a Full Stack Webapp called Dashe-Tour**
 
-- 🌱 I’m currently learning **Javascript, nodejs, flutter**
+- 🌱 I’m currently learning **Typescript, React and NodeJS**
 
-- 💬 Ask me about **math, python, java, C++**
+- 💬 Ask me about **Math, Python, Java, JavaScript**
 
 - 📫 How to reach me **workflow.jd@gmail.com**
 
