@@ -5,11 +5,11 @@
 <h3 align="center">A thriving software developer in my home</h3>
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/VkJqP37k/coverpage.png">
 
-- 🔭 I’m currently working on **a Full Stack Webapp called [Dashen-Tour](https://github.com/dagimg-dot/Dashen-Tour-VanillaTS)**
+- 🔭 I’m currently working on **a Full Stack Webapp called EthYellow**
 
-- 🌱 I’m currently learning **Typescript, React and NodeJS**
+- 🌱 I’m currently learning **Docker, Go and NodeJS**
 
-- 💬 Ask me about **Math, Python, Java and JavaScript**
+- 💬 Ask me about **Math, Python, Java and Typescript**
 
 - 📫 How to reach me **workflow.jd@gmail.com**
 
