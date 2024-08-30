@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Docker, Go and Typescript**
 
-- 🖥️ I'm currently working as an Intern for a local company using **Nuxt**, **Hasura** and **Express**
-
 - 📝 I write articles on [Medium](https://medium.com/@lixjvon) and [dev.to](https://dev.to/dagimgdot)
 
 - 📫 How to reach me **workflow.jd@gmail.com**
