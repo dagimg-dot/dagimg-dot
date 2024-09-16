@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://t3.ftcdn.net/jpg/04/17/28/36/240_F_417283633_47AQ9AVxRMcAaNCzwIhS7xVMGKpcDuj8.jpg" />
 </p>
-<h1 align="center">ሰላም 👋🏿, I'm Dagim G. Astatkie</h1>
+<h1 align="center">ሰላም 👋🏿, I'm <a href="https://dagimg-dot.netlify.app" target="_blank">Dagim G. Astatkie</a></h1>
 <h3 align="center">Software Engineer from Ethiopia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/VkJqP37k/coverpage.png">
