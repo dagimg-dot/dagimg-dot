@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/VkJqP37k/coverpage.png">
 
-- 🔭 I’m currently working on **a Gnome Extension called [EthCal](https://github.com/dagimg-dot/EthCal)**
+- 🔭 I’m currently working on **a Gnome Extension called [Noty](https://github.com/dagimg-dot/Noty)**
 
 - 🌱 I’m currently learning **Docker, Go and Typescript**
 
