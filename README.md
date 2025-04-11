@@ -8,7 +8,7 @@
 
 - 🌱 Learning **Docker, Go and Typescript**
 
-- 📝 Articles on [Medium](https://medium.com/@lixjvon), [dev.to](https://dev.to/dagimgdot) and [Personal Blog](https://dagimg.com/blogs)
+- 📝 Articles on [Medium](https://medium.com/@lixjvon), [dev.to](https://dev.to/dagimgdot) and [Personal Blog](https://dagimg.com/blog)
 
 - 📫 Reach out  **workflow.jd@gmail.com**
 
