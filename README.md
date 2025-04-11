@@ -14,7 +14,7 @@
 
 - 📫 Reach out  **workflow.jd@gmail.com**
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center"></h2>
 <p align="center">
 <a href="https://dev.to/https://dev.to/dagimgdot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dagimgdot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dagim-astatkie-1743a1239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dagim-astatkie-1743a1239" height="30" width="40" /></a>
