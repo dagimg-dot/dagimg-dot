@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://t3.ftcdn.net/jpg/04/17/28/36/240_F_417283633_47AQ9AVxRMcAaNCzwIhS7xVMGKpcDuj8.jpg" />
-</p>
-<h1 align="center">ሰላም 👋🏿, I'm <a href="https://dagimg.com" target="_blank">Dagim G. Astatkie</a></h1>
-<h3 align="center">Software Engineer from Ethiopia</h3>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimg-dot&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<h1 align="center">ሰላም 👋🏿, I'm <a href="https://dagimg.com" target="_blank">Dagim G. Astatkie</a></h1>
+<h3 align="center">Software Engineer and Math Fanatic</h3>
+
+<img align="right" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimg-dot&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 - 🔭 Working on **a Gnome App called [Noty](https://github.com/dagimg-dot/Noty)**
 
@@ -21,3 +19,4 @@
 <a href="https://medium.com/@lixjvon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lixjvon" height="30" width="40" /></a>
 <a href="https://t.me/jdsteps" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="@jdsteps" height="30" width="40" /></a>
 </p>
+
