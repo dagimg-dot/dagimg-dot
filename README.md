@@ -3,7 +3,7 @@
 
 <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimg-dot&size_weight=0.1&count_weight=0.1&layout=compact&theme=catppuccin_frappe)](https://github.com/dagimg-dot/dagimg-dot">
 
-- 🔭 Working on **projects [Noty](https://github.com/dagimg-dot/Noty), [gitsnip](https://github.com/dagimg-dot/gitsnip) and [did-exit](https://github.com/dagimg-dot/did-exit)**
+- 🔭 Working on **a gnome extension called EthCal**
 
 - 🌱 Learning **Docker, Go and Typescript**
 
