@@ -3,7 +3,7 @@
 
 <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimg-dot&size_weight=0.1&count_weight=0.1&layout=compact&theme=catppuccin_frappe)](https://github.com/dagimg-dot/dagimg-dot">
 
-- 🔭 Working on **a gnome extension called EthCal**
+- 🔭 Working on **a gnome extension called [ZenoFlow](https://github.com/doubl-troubl/ZenoFlow)**
 
 - 🌱 Learning **Docker, Go and Typescript**
 
