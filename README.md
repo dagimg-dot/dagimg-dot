@@ -1,9 +1,7 @@
 <h1 align="center">ሰላም 👋🏿, I'm <a href="https://dagimg.com" target="_blank">Dagim G. Astatkie</a></h1>
 <h3 align="center">Software Engineer and Math Fanatic</h3>
 
-<img align="right" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagimg-dot&size_weight=0.1&count_weight=0.1&layout=compact&theme=catppuccin_frappe)](https://github.com/dagimg-dot/dagimg-dot">
-
-- 🔭 Working on **a gnome extension called [GN'EXT](https://github.com/dagimg-dot/gnext)**
+- 🔭 Working on **a CLI tool called [GN'EXT](https://github.com/dagimg-dot/gnext)**
 
 - 🌱 Learning **Docker, Go and Typescript**
 
