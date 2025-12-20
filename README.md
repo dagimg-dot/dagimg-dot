@@ -1,9 +1,9 @@
 <h1 align="center">ሰላም 👋🏿, I'm <a href="https://dagimg.com" target="_blank">Dagim G. Astatkie</a></h1>
 <h3 align="center">Software Engineer and Math Fanatic</h3>
 
-- 🔭 Working on **a CLI tool called [GN'EXT](https://github.com/dagimg-dot/gnext)**
+- 🔭 Working on **a local battery telemetry service called [Drift 🌊](https://github.com/dagimg-dot/drift)**
 
-- 🌱 Learning **Docker, Go and Typescript**
+- 🌱 Learning **Docker, Go, Zig and Typescript**
 
 - 📝 Articles on [Medium](https://medium.com/@lixjvon), [dev.to](https://dev.to/dagimgdot) and [Personal Blog](https://dagimg.com/blog)
 
