@@ -1,7 +1,7 @@
 <h1 align="center">ሰላም 👋🏿, I'm <a href="https://dagimg.com" target="_blank">Dagim G. Astatkie</a></h1>
 <h3 align="center">Software Engineer and Math Fanatic</h3>
 
-- 🔭 Working on **a local battery telemetry service called [Drift 🌊](https://github.com/dagimg-dot/drift)**
+- 🔭 Working on **a local battery telemetry service called [Zetta👉🏿👈🏿](https://github.com/zettahq)**
 
 - 🌱 Learning **Docker, Go, Zig and Typescript**
 
