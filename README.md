@@ -1,7 +1,7 @@
 <h1 align="center">ሰላም 👋🏿, I'm <a href="https://dagimg.com" target="_blank">Dagim G. Astatkie</a></h1>
 <h3 align="center">Software Engineer and Math Fanatic</h3>
 
-- 🔭 Working on **a modular KDE Connect protocol implementation in zig called [Zetta👉🏿👈🏿](https://github.com/zettahq)**
+- 🔭 Working on **a natural language calculator engine in GO called [Operand](https://github.com/dagimg-dot/operand)**
 
 - 🌱 Learning **Docker, Go, Zig and Typescript**
 
