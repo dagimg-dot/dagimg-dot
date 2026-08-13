@@ -1,7 +1,7 @@
 <h1 align="center">ሰላም 👋🏿, I'm <a href="https://dagimg.com" target="_blank">Dagim G. Astatkie</a></h1>
 <h3 align="center">Software Engineer and Math Fanatic</h3>
 
-- 🔭 Working on **a natural language calculator engine in GO called [Operand](https://github.com/dagimg-dot/operand)**
+- 🔭 Working on **an automatic screen time and focus tracker in ZIG called [Gize](https://github.com/dagimg-dot/gize)**
 
 - 🌱 Learning **Docker, Go, Zig and Typescript**
 
